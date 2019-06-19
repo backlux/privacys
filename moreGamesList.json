@@ -1,4 +1,20 @@
 [
-  {"test":"11"},
-  {"test2":"2222"}
+  {"gameKey":"gok",
+  "iOSLink":"itms-apps://itunes.apple.com/app/id1190027085",
+  "androidLink":"",
+  "androidCNLink":"",
+  "icon":"https://backlux.github.io/privacys/gokicon200.png",
+  "CN":"文明与帝国 全球同服策略游戏",
+  "TW":"文明與帝國 全球同服策略遊戲",
+  "EN":"Civilization & Empires strategy game",
+  },
+   {"gameKey":"dragon",
+  "iOSLink":"itms-apps://itunes.apple.com/app/id1466506359",
+  "androidLink":"",
+  "androidCNLink":"",
+  "icon":"https://backlux.github.io/privacys/dkicons200.png",
+  "CN":"暗黑屠龙 3关狂升30级RPG",
+  "TW":"暗黑屠龍 3關狂升30級RPG",
+  "EN":"Dragon slayer RPG",
+  }
 ]
