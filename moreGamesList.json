@@ -9,14 +9,14 @@
   "EN":"Civilization & Empires strategy game",
     "isNew":true
   },
-   {"gameKey":"dragon",
-  "iOSLink":"itms-apps://itunes.apple.com/app/id1466506359",
-  "androidLink":"market://details?id=org.elisgames.dragonwar",
+   {"gameKey":"molibaby",
+  "iOSLink":"itms-apps://itunes.apple.com/app/id1498341273",
+  "androidLink":"market://details?id=rpg.fantasy.heroacademia",
   "androidCNLink":"",
-  "icon":"https://backlux.github.io/privacys/dkicons200.png",
-  "CN":"暗黑屠龙 3关狂升30级RPG",
-  "TW":"暗黑屠龍 3關狂升30級RPG",
-  "EN":"Dragon slayer RPG, get Lv30 in 3 mins",
+  "icon":"https://backlux.github.io/privacys/moli200.png",
+  "CN":"魔力宝贝 3D RPG",
+  "TW":"魔力寶貝 3d RPG",
+  "EN":"Hero adventure 3D game",
   "isNew":true
   }
 ]
